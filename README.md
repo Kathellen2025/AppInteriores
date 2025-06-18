@@ -1,2 +1,2 @@
-# AppInteriores-Bom
+# AppInteriores
 Repositório das imagens do aplicativo Interiores
